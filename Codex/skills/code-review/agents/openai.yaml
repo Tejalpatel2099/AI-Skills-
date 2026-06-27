@@ -1,0 +1,15 @@
+# Optional Codex-only metadata. Claude and other agents ignore this file.
+# Configures how the skill appears and behaves in the Codex app.
+display_name: Code Review
+category: quality
+# Invocation policy: when may Codex run this skill automatically?
+#   on-request | auto | never
+invocation: on-request
+# Declare tools this skill expects to have available.
+tools:
+  - read_file
+  - search_files
+# This skill only reads — it should never edit or run commands.
+permissions:
+  edit: false
+  run: false
