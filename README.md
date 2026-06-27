@@ -1,5 +1,9 @@
 # 🧰 AI-Skills
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Skills](https://img.shields.io/badge/skills-7-blue.svg)
+![Format](https://img.shields.io/badge/format-Agent%20Skills-purple.svg)
+
 A personal toolkit of reusable **AI agent skills** for everyday software development, plus **AI fundamentals** notes for interview prep. Skills are written in the open *Agent Skills* format, so the same files work in both **Claude Code** and **OpenAI Codex CLI** (and Cursor, Gemini CLI, GitHub Copilot).
 
 > Maintained by [@Tejalpatel2099](https://github.com/Tejalpatel2099). Two things live here: agent skills you can install into your coding agent, and reference notes for AI/LLM interviews.
